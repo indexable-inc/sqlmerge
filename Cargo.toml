@@ -1,0 +1,22 @@
+[package]
+name = "sqlmerge"
+version = "0.1.0"
+edition = "2024"
+publish = false
+description = "git merge driver for SQLite databases: three-way merge via the session extension"
+license = "MIT"
+
+[dependencies]
+# The workspace entry pins `bundled` (SQLite compiled into the binary, so the
+# merge semantics are identical on every machine); `session` adds the
+# sqlite3session_* changeset API this driver is built on.
+rusqlite = { version = "0.40", features = ["bundled", "session"] }
+# `sqlmerge.toml` parsing (per-table conflict policy). `parse` + `serde` mirror
+# the workspace's other toml consumers (config-launch); `glob` matches table
+# names against the policy globs. Both are already in the workspace + lockfile.
+toml = { version = "1.1.2", default-features = false, features = ["parse", "serde"] }
+serde = { version = "1", features = ["derive"] }
+glob = "0.3"
+
+[dev-dependencies]
+tempfile = "3"
