@@ -1,5 +1,5 @@
 > [!NOTE]
-> [`indexable-inc/sqlmerge`](https://github.com/indexable-inc/sqlmerge) is a read-only mirror, generated from [`packages/sqlmerge`](https://github.com/indexable-inc/index/tree/6bfcc9c6bc3877fadf8ffcc49667e371142dd0fb/packages/sqlmerge) in [`indexable-inc/index`](https://github.com/indexable-inc/index) at commit `6bfcc9c6bc38`. The monorepo is the source of truth: please open issues and pull requests [there](https://github.com/indexable-inc/index). This mirror is regenerated automatically; anything pushed directly here will be overwritten.
+> [`indexable-inc/sqlmerge`](https://github.com/indexable-inc/sqlmerge) is a read-only mirror, generated from [`packages/sqlmerge`](https://github.com/indexable-inc/index/tree/d40b76803bd863771610794aeb069bd01e2865e7/packages/sqlmerge) in [`indexable-inc/index`](https://github.com/indexable-inc/index) at commit `d40b76803bd8`. The monorepo is the source of truth: please open issues and pull requests [there](https://github.com/indexable-inc/index). This mirror is regenerated automatically; anything pushed directly here will be overwritten.
 
 <p align="center"><img src="assets/hero.svg" width="720" alt="base, ours, and theirs SQLite files flow through sqlmerge into a merged database on clean rows or a per-row conflict report on exit 1"></p>
 
