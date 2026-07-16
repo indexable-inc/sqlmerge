@@ -6,6 +6,7 @@ All notable changes to `sqlmerge`, derived mechanically from the [monorepo commi
 
 ### Changed
 
+- lint fix: rust lane (cargo fmt with the repo-pinned nightly) ([#3454](https://github.com/indexable-inc/index/issues/3454)) ([`5700533`](https://github.com/indexable-inc/index/commit/57005330410204754ab812296c8d78596ea22e52), 2026-07-16)
 - clone: consolidate duplicate implementations ([#2618](https://github.com/indexable-inc/index/issues/2618)) ([`6b1a52b`](https://github.com/indexable-inc/index/commit/6b1a52b7a706fba73132a8950421817e9016275c), 2026-07-09)
 - readme sweep: core tools (sqlmerge, dag-runner, astlog, scipql, mirror, unibind, indexbench) ([#2097](https://github.com/indexable-inc/index/issues/2097)) ([`d3aeadd`](https://github.com/indexable-inc/index/commit/d3aeadd2a5da98209e3247e5c31dcb9643d7c411), 2026-07-06)
 - repo metadata: declarative description/homepage/topics, synced and required by CI ([#2069](https://github.com/indexable-inc/index/issues/2069)) ([`feda2d4`](https://github.com/indexable-inc/index/commit/feda2d4bf7893a83121eea864cf5a3505564ec95), 2026-07-06)
