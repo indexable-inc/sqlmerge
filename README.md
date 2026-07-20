@@ -1,5 +1,5 @@
 > [!NOTE]
-> [`indexable-inc/sqlmerge`](https://github.com/indexable-inc/sqlmerge) is a read-only mirror, generated from [`packages/sqlmerge`](https://github.com/indexable-inc/index/tree/f4cff2c31d52a39d9b3564fd20dc72e61124135a/packages/sqlmerge) in [`indexable-inc/index`](https://github.com/indexable-inc/index) at commit `f4cff2c31d52`. The monorepo is the source of truth: please open issues and pull requests [there](https://github.com/indexable-inc/index). This mirror is regenerated automatically; anything pushed directly here will be overwritten.
+> [`indexable-inc/sqlmerge`](https://github.com/indexable-inc/sqlmerge) is a read-only mirror, generated from [`packages/sqlmerge`](https://github.com/indexable-inc/index/tree/7319bc004375cc12fb12dc09b3f33ecfa5b58a81/packages/sqlmerge) in [`indexable-inc/index`](https://github.com/indexable-inc/index) at commit `7319bc004375`. The monorepo is the source of truth: please open issues and pull requests [there](https://github.com/indexable-inc/index). This mirror is regenerated automatically; anything pushed directly here will be overwritten.
 
 <p align="center">
   <picture>
