@@ -6,6 +6,7 @@ All notable changes to `sqlmerge`, derived mechanically from the [monorepo commi
 
 ### Changed
 
+- sqlmerge: dedupe twin merge test bodies ([#3910](https://github.com/indexable-inc/index/issues/3910)) ([`1ff2aa1`](https://github.com/indexable-inc/index/commit/1ff2aa1a9a237848f89875e5d4519ae7661e40e4), 2026-07-21)
 - readme: sweep dark hero twins repo-wide and lint the picture pattern ([`3caca1f`](https://github.com/indexable-inc/index/commit/3caca1fb9aaaeb5885082bb61e5687b5b72c9492), 2026-07-19)
 - lint fix: rust lane (cargo fmt with the repo-pinned nightly) ([#3454](https://github.com/indexable-inc/index/issues/3454)) ([`5700533`](https://github.com/indexable-inc/index/commit/57005330410204754ab812296c8d78596ea22e52), 2026-07-16)
 - clone: consolidate duplicate implementations ([#2618](https://github.com/indexable-inc/index/issues/2618)) ([`6b1a52b`](https://github.com/indexable-inc/index/commit/6b1a52b7a706fba73132a8950421817e9016275c), 2026-07-09)
