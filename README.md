@@ -1,5 +1,5 @@
 > [!NOTE]
-> [`indexable-inc/sqlmerge`](https://github.com/indexable-inc/sqlmerge) is a read-only mirror, generated from [`packages/sqlmerge`](https://github.com/indexable-inc/index/tree/02e98d12191f7c64e71cf6c2bd7c018ee50c4d2b/packages/sqlmerge) in [`indexable-inc/index`](https://github.com/indexable-inc/index) at commit `02e98d12191f`. The monorepo is the source of truth: please open issues and pull requests [there](https://github.com/indexable-inc/index). This mirror is regenerated automatically; anything pushed directly here will be overwritten.
+> [`indexable-inc/sqlmerge`](https://github.com/indexable-inc/sqlmerge) is a read-only mirror of [`packages/sqlmerge`](https://github.com/indexable-inc/index/tree/1ff2aa1a9a237848f89875e5d4519ae7661e40e4/packages/sqlmerge) in [`indexable-inc/index`](https://github.com/indexable-inc/index), taken at `1ff2aa1a9a23`, the last monorepo commit that changed the package. A sha behind the monorepo's HEAD means the package has not changed since, not that the mirror is stale. The monorepo is the source of truth: please open issues and pull requests [there](https://github.com/indexable-inc/index). This mirror is regenerated automatically; anything pushed directly here will be overwritten.
 
 <p align="center">
   <picture>
